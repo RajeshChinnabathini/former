@@ -2,12 +2,10 @@ server:
   port: 8081
 
 spring:
-   datasource:
+  datasource:
     url: jdbc:mysql://localhost:4677/raji
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate.ddl-auto: update
-
- message: this is uat env
