@@ -6,4 +6,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate.ddl-auto: update
-message : again again updated this dev environment properties.
+message : again again updated this uat environment properties.
