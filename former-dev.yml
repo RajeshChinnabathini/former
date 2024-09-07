@@ -1,14 +1,10 @@
 
 spring:
-   datasource:
+  datasource:
     url: jdbc:mysql://localhost:4677/raji
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate.ddl-auto: update
-
-message: this is dev env
-
-    
- 
+message : again again updated this uat environment properties.
